@@ -1,0 +1,5 @@
+cat students.csv 
+grep "MATH" students.csv
+sort students.csv
+cut -d, -f2 students.csv
+

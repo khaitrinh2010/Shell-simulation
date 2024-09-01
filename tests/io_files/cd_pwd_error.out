@@ -1,0 +1,6 @@
+>> cd: no such file or directory: notADirectory
+>> cd: no such file or directory: test.csv
+>> cd: too many arguments
+>> pwd: invalid option: i
+>> pwd: invalid option: -i
+>> >> 

@@ -1,0 +1,2 @@
+var -s students 'sort students.csv | grep "INFO"'
+echo ${students}

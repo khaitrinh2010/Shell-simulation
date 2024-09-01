@@ -1,0 +1,5 @@
+>> var: shell built-in command
+>> /usr/sbin/ls
+>> notvalid not found
+notvalid2 not found
+>> 

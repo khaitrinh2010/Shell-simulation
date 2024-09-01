@@ -1,0 +1,3 @@
+cd test_folder/MyDocsLink
+pwd
+pwd -P

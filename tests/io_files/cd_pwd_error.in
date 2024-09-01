@@ -1,0 +1,6 @@
+cd notADirectory
+cd test.csv
+cd arg1 arg2
+pwd i
+pwd -i
+

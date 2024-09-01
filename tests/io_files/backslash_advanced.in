@@ -1,0 +1,4 @@
+var my_name 'My name isn\'t Tuan'
+echo ${my_name}
+
+
